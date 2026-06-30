@@ -57,6 +57,7 @@ Plaintext
 2. Agregar un nuevo país
 3. Actualizar datos de un país
 ...
+
 Ejemplo 2: Uso del Filtro por Rango de Población (Opción 5)
 Entrada de usuario:
 
@@ -70,12 +71,13 @@ Valor máximo: 100000000
 
 Salida del sistema:
 
-## Plaintext
+ Plaintext
 📋 Resultados del Filtro (4 encontrados):
 • Argentina (América) - Pob: 45376763 - Sup: 2780400 km²
 • Alemania (Europa) - Pob: 83149300 - Sup: 357022 km²
 • Francia (Europa) - Pob: 68000000 - Sup: 551695 km²
 • Italia (Europa) - Pob: 59000000 - Sup: 301340 km²
+
 Ejemplo 3: Validación ante una Entrada Inválida
 Entrada de usuario:
 
