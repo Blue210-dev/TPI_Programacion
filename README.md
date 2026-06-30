@@ -8,6 +8,10 @@ Consiste en una aplicación de consola desarrollada en Python que permite admini
 
 Tareas: Desarrollo del módulo de carga de CSV, funciones de ordenamiento y validación de entradas de texto.
 
+## Links 
+Repositorio Github: https://github.com/Blue210-dev/TPI_Programacion.git
+Video explicativo: https://youtu.be/jLuaAuBX3AY
+
 ## 🛠️ Requerimientos del Sistema e Instalación
 Requisitos previos
 Tener instalado Python 3.x en tu sistema.
