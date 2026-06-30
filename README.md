@@ -1,4 +1,4 @@
-#TPI - Gestión de Datos de Países en Python
+# TPI - Gestión de Datos de Países en Python
 Este proyecto es el Trabajo Práctico Integrador desarrollado para la materia Programación 1 de la Tecnicatura Universitaria en Programación a Distancia de la Universidad Tecnológica Nacional (UTN).
 
 Consiste en una aplicación de consola desarrollada en Python que permite administrar y analizar un dataset de países almacenado en un archivo CSV. El sistema implementa la carga dinámica de datos en memoria (utilizando listas y diccionarios), validación de entradas, control de errores, modularización, filtros avanzados, algoritmos de ordenamiento e indicadores estadísticos básicos.
