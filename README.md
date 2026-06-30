@@ -15,7 +15,7 @@ Tener instalado Python 3.x en tu sistema.
 Estructura de Archivos Necesaria
 Para que el sistema funcione correctamente, los siguientes archivos deben estar ubicados en el mismo directorio:
 
-main.py (Código fuente principal)
+TPI-Programacion-dataset_paises.py (Código fuente principal)
 
 paises.csv (Base de datos de países)
 
