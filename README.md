@@ -25,7 +25,7 @@ README.md (Este archivo de documentación)
 Para iniciar el programa, abrí la terminal de comandos dentro de la carpeta del proyecto y ejecutá:
 
 ```Bash
-python main.py
+python TPI-Programacion-dataset_paises.py
 ```
 
 ## 📖 Instrucciones de Uso y Funcionalidades
